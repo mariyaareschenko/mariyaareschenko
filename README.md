@@ -1,4 +1,5 @@
 ### My CV
+[CV_Areshchenko](https://drive.google.com/file/d/1sMeU5x9f46vmha3Lu537mB4HzjF6H_u6/view?usp=sharing)
 
 ### Testing Documentation
 - [Technical specification project_1](https://drive.google.com/file/d/15KUMnTsXmROmT6dQ3ecilaCYV6-IhpUx/view?usp=sharing)
