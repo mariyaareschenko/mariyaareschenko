@@ -1,6 +1,7 @@
 ### My CV
 
 ### Testing Documentation
+- [Technical specification project_1](https://drive.google.com/file/d/15KUMnTsXmROmT6dQ3ecilaCYV6-IhpUx/view?usp=sharing)
 - [Cheklist](https://docs.google.com/spreadsheets/d/1wRnYyejjYj54Er7EbxvFw4GIRJ4KD_3J/edit?usp=sharing&ouid=104296759889765386188&rtpof=true&sd=true)
 - [Bug-Report](https://drive.google.com/file/d/1VrdeCxPIeHPbFjgem7xBjYfkVkVX7oqb/view?usp=sharing)
 - [Unit tests](https://drive.google.com/file/d/1ijjt60qMZ_O1xkraYbeW8mJ_ekXb6R5L/view?usp=sharing)
